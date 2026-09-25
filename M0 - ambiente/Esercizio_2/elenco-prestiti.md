@@ -4,6 +4,4 @@
 | INV-0211 | Luca Depaoli | 3Ai | 2026-09-28 | 2026-10-12 | 
 
 
-
-
-add
+Tra la prima e la seconda `git status` il file è passato da "untracked" (area di lavoro) a "staged"/"changes to be committed" (area di staging), dopo `git add`.
